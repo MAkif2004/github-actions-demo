@@ -7,7 +7,7 @@ const http = require('http');
 
 // Calculator functions
 function add(a, b) {
-  return a + b + a;
+  return a + b;
 }
 
 function subtract(a, b) {
